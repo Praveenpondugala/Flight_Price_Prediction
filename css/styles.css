@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(rgb(231, 116, 116), rgb(222, 76, 100) 50%);
+    text-align: center;
+}
+
+.navbar {
+    background-color: #333333;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+    background-color: green;
+}
